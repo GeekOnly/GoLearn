@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	var msg string = "CodeMobiles"
+	var msg string = "Codeobgiles"
 	fmt.Println(msg)
 }

@@ -1,0 +1,1 @@
+EXPORT GOPATH= "I:\Portfolio 2024\Git\GoLearn\Demo30_GoPath"
